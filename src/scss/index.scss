@@ -1,0 +1,48 @@
+/* Carousel */
+body {
+    margin: auto;
+    background: linear-gradient(45deg, #8b5cf6, #ec4899);
+    font-family: "Montserrat", sans-serif;
+    width: auto;
+    height: auto;
+    border: 15px;
+     
+  }
+  
+  
+  .header-menu {
+      width: auto;
+      height: 50px;
+      border: black solid 1px;
+  }
+  
+  .main__info{
+    background-image: url(../accets/img/backgroundHeader.jpg);
+    background-size:cover;
+    width: auto;
+    height: 100vh;
+    display: block;
+  
+  }
+  
+  .carousel{
+    width: auto;
+    height: 100vh;
+    border: 1px solid yellow;
+    display: block;
+  }
+  
+  .for-who{
+    width: auto;
+    height: 100vh;
+    border: 1px solid red;
+    display: block;
+  }
+  
+  .footer-menu{
+    border: 1px solid teal;
+    margin-top: 0px;
+  }
+  
+  
+  
